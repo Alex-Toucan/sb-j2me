@@ -9,7 +9,6 @@ Mostly for old 2000s phones back in the day that only ran Java applets.
 | DoodleJump.jar                    | 240x320           | en                     |
 | Baytona 500.jar                   | 176x208           | en                     |
 | Bowling.jar                       | 176x208           | en                     |
-| Bowling (ES).jar                  | 176x208           | es                     |
 | Darts.jar (jad)                   | 128x128           | en                     |
 | Movie.jar                         | 176x208176x208    | en, de, fr, it, es     |
 | Paparazzi Parade-128x128.jar      | 128x128, 128x160  | en, fr, it, de, es, ru |
