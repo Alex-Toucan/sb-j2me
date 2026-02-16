@@ -14,6 +14,9 @@ Mostly for old 2000s phones back in the day that only ran Java applets.
 | Paparazzi Parade-128x128.jar      | 128x128, 128x160  | en, fr, it, de, es, ru |
 | Paparazzi Parade-240x320.jar      | 240x320           | en, fr, it, de, es, ru |
 | Racing (CN).jar                   | 176x208           | cn                     |
+| Jump.jar                          | 240x320           | en, de, fr it, es      | 
+| Legend of the Lost Spatula.jar    | 240x320           | en                     | 
+
 
 ## Archives
 https://archive.org/details/HugeJavaMobileGameDump
